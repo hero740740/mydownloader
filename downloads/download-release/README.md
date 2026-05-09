@@ -1,0 +1,31 @@
+# download-release
+
+---
+
+## Download Information
+
+| Property | Value |
+|----------|-------|
+| **Original File** | `download-release.php` |
+| **Size** | 15.83 MB |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
+
+---
+
+## Download Link
+
+| File | Link |
+|------|------|
+| `download-release.zip` | [Download](https://github.com/hero740740/mydownloader/raw/main/downloads/download-release/download-release.zip) |
+
+---
+
+## How to Extract
+
+1. **Open** `download-release.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+2. **Extract** the file
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
